@@ -20,4 +20,4 @@ fmt.Println(result)
 // Output: [[1 6 2] [3 1 4] [2 2 1 3]]
 ```
 
-Ported from [Javascript](https://github.com/azrosen92/linear-partition-javascript)
+Ported from [Javascript implementation](https://github.com/azrosen92/linear-partition-javascript).
